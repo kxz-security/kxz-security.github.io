@@ -1,0 +1,20 @@
+h1
+{
+	color: red;
+	font-family: 'Ultra', serif;
+	font-size: 3em;
+	font-family: 'Audiowide', cursive;
+}
+body
+{
+	background-image: url(myground.jpg);
+	text-align: center;
+	opacity: 0.7;
+	cursor: url("cursor4.cur"), pointer;
+}
+p
+{
+	color: white;
+	font-family: 'Courgette', cursive;
+	font-size: 2em;
+}
